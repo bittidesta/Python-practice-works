@@ -1,2 +1,2 @@
 # Python-practice-works
-Python playgrond
+This Project contains basic python examples.
